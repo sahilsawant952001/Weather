@@ -1,0 +1,41 @@
+body
+{
+    text-align: center;
+    font-family: 'Lusitana', serif;
+    background-color: #D3D3D3;
+}
+
+.btn
+{
+    text-align: center;
+}
+
+.form-group
+{
+    width: 70%;
+}
+
+.form-control
+{
+    margin: 8% 0;
+}
+
+form
+{
+    margin: 5%;
+}
+
+h1
+{
+    font-family: 'Amaranth', sans-serif;
+    font-size: 4.5rem;
+    text-shadow: 3px 3px 3px #fff;
+}
+
+.response
+{
+    background-color: #fff;
+    padding: 2%;
+    margin: 0 35%;
+    border-radius: 10px;
+}
